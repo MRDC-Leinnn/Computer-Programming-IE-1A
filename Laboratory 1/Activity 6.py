@@ -25,7 +25,7 @@ print("")
 remove = int(input("Enter index number to replace: "))
 boys.pop(remove)                                         # function to remove an item in the list
 replace = input("Enter replacement: ")
-boys.insert(remove, replace)                             # function to insert an item in the list (remove = index/placement, replace = item to be inserted)
+boys.insert(remove, replace)                             # function to insert an item in the list (remove and replace are just variable names)
 print(boys)
 
 # Print length of the list
@@ -55,4 +55,5 @@ print("")
 x = tuple(boys)                                          # function to convert a list to a tuple
 print("Tuple:")
 print(x)
+
 print("The data type is:", type(x))                      # to check the data type of the variable x
