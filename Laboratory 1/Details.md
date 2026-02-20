@@ -18,5 +18,3 @@
 > 📋 **Activity 6:** List Operations and Manipulations  
 
 ---
-
-<div align="center">
