@@ -1,5 +1,7 @@
 <div align="center">
 
+---
+
 #  BSIE 1A  
 ## Computer Fundamentals and Programming  
 ### 💻 Laboratory Activities Repository  
