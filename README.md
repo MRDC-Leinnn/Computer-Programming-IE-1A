@@ -12,7 +12,7 @@
 
 Welcome to the official repository of **BSIE 1A** for the course **Computer Fundamentals and Programming**.  
 
-This repository serves as a collection of laboratory activities, exercises, source codes, and related documentation completed throughout the semester. It reflects the hands-on learning and foundational programming skills developed by the class.
+This repository serves as a collection of laboratory activities, exercises, and related documentation completed throughout the semester.
 
 ---
 
@@ -30,13 +30,13 @@ This repository serves as a collection of laboratory activities, exercises, sour
 ## 🧪 Laboratory Activities
 
 ### 📅 Laboratory 1  
-**Title:** Introduction to Computer Fundamentals  
+**Title:** Python Fundamentals Practice - Variables, Input, Lists, and ASCII Art 
 **Date Conducted:** February 20, 2026  
 
 ---
 
 <div align="center">
 
-### 🚀 *"Learning to code is learning to think."*
+### 🚀 *"Kasalanan talaga 'to ni Nathaniel."*
 
 </div>
