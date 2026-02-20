@@ -1,8 +1,8 @@
 <div align="center">
 
-# 💻 BSIE 1A  
+#  BSIE 1A  
 ## Computer Fundamentals and Programming  
-### 📘 Laboratory Activities Repository  
+### 💻 Laboratory Activities Repository  
 
 </div>
 
@@ -29,7 +29,7 @@ If you want to run the codes, make sure you download the specific file first, an
 
 ---
 
-## 🧪 Laboratory Activities
+##  Laboratory Activities
 
 ### 📅 Laboratory 1  
 **Title:** Introduction to Computer Fundamentals  
