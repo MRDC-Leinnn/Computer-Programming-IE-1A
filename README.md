@@ -35,17 +35,6 @@ This repository serves as a collection of laboratory activities, exercises, sour
 
 ---
 
-### 🧩 Activities Included
-
-> 🖨 **Activity 1:** ASCII Art with `print()` Function  
-> 🆔 **Activity 2:** Creating Variables and Identifiers  
-> ⌨️ **Activity 3:** Using the `input()` Function  
-> 🎨 **Activity 4:** Dynamic ASCII Art Using `input()` and `print()`  
-> 🧮 **Activity 5:** Using `input()` and Arithmetic Operators  
-> 📋 **Activity 6:** List Operations and Manipulations  
-
----
-
 <div align="center">
 
 ### 🚀 *"Kasalanan talaga 'to ni Nathaniel"*
