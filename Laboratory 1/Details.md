@@ -10,5 +10,3 @@
 > 🎨 **Activity 4:** Dynamic ASCII Art Using `input()` and `print()`  
 > 🧮 **Activity 5:** Using `input()` and Arithmetic Operators  
 > 📋 **Activity 6:** List Operations and Manipulations  
-
----
