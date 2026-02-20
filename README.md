@@ -33,7 +33,7 @@ If you want to run the codes, make sure you download the specific file first, an
 
 ### 📅 Laboratory 1  
 **Title:** Introduction to Computer Fundamentals  
-**Date Conducted:** February 20, 2026  
+**Date Conducted:** February 20, 2026 (Friday)
 
 ---
 
