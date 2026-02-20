@@ -28,4 +28,5 @@ print(f"{x}{x}:.:: {x}{x}: {x}{x}.... {x}{x}: {x}{x}::. {x}{x}:: {x}{x}::: {x}{x
 print(f"{x}{x}:::: {x}{x}: {x}{x}:::: {x}{x}: {x}{x}:::. {x}{x}:. {x}{x}{x}{x}{x}{x}::")
 
 # Para maging dynamic ASCII Art, papalitan yung main character (in this case, '#'), to the variable name using f-string kung saan naka-assign yung user input (in this case, x)
-# In essence print("#") -> f"{x}"      x being the variable name nung user input
+# In essence print("#") -> print(f"{x}")      x being the variable name nung user input
+
