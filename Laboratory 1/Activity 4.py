@@ -17,7 +17,7 @@ x = input("Enter a new character/symbol to replace '#' : ")
 
 # Function to replace '#' with the new character/symbol in the ASCII art design
 print("")
-print("NEW DESIGN: ")
+print("NEW DESIGN: ")                            # Para maging dynamic ASCII Art, papalitan yung main character (in this case, '#'), to the variable name {f-string} kung saan naka-assign yung user input (in this case, x)
 print("")
 print(f"{x}{x}::::'{x}{x}::::'{x}{x}{x}::::'{x}{x}{x}{x}{x}{x}{x}{x}:::'{x}{x}{x}{x}{x}{x}::")
 print(f"{x}{x}{x}::'{x}{x}{x}:::'{x}{x} {x}{x}::: {x}{x}.... {x}{x}:'{x}{x}... {x}{x}:")
@@ -25,4 +25,5 @@ print(f"{x}{x}{x}{x}'{x}{x}{x}{x}::'{x}{x}:. {x}{x}:: {x}{x}:::: {x}{x}: {x}{x}:
 print(f"{x}{x} {x}{x}{x} {x}{x}:'{x}{x}:::. {x}{x}: {x}{x}{x}{x}{x}{x}{x}{x}:: {x}{x}:::::::")
 print(f"{x}{x}. {x}: {x}{x}: {x}{x}{x}{x}{x}{x}{x}{x}{x}: {x}{x}.. {x}{x}::: {x}{x}:::::::")
 print(f"{x}{x}:.:: {x}{x}: {x}{x}.... {x}{x}: {x}{x}::. {x}{x}:: {x}{x}::: {x}{x}:")
+
 print(f"{x}{x}:::: {x}{x}: {x}{x}:::: {x}{x}: {x}{x}:::. {x}{x}:. {x}{x}{x}{x}{x}{x}::")
