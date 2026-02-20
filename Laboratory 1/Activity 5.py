@@ -12,4 +12,3 @@ print(f"Division: {x/y}")
 print(f"Floor Division: {x//y}")
 print(f"Modulus: {x%y}")
 print(f"Exponentiation: {x**y}")
-
