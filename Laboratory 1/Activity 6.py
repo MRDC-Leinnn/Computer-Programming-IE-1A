@@ -17,7 +17,7 @@ print("Item:", boys[index])
 print("")
 start = int(input("Enter start index: "))
 end = int(input("Enter end index: "))
-end += 1                                                 # since di included yung end index, kailangan dagdagan ng 1 para ma-include yung item sa end index
+end += 1                                                 # since di included yung end index, kailangan dagdagan ng 1 para ma-include yung end item sa list
 print("Items in range:", boys[start:end])
 
 # Replace a specific item
@@ -57,3 +57,4 @@ print("Tuple:")
 print(x)
 
 print("The data type is:", type(x))                      # to check the data type of the variable x
+
