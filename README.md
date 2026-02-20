@@ -12,7 +12,7 @@
 
 Welcome to the official repository of **BSIE 1A** for the course **Computer Fundamentals and Programming**.  
 
-This repository serves as a collection of laboratory activities, exercises, source codes, and related documentation completed throughout the semester.
+This repository serves as a collection of laboratory activities/exercises completed throughout the semester.
 
 ---
 
