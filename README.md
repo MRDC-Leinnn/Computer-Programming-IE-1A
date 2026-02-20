@@ -39,6 +39,6 @@ If you want to run the codes, make sure you download the specific file first, an
 
 <div align="center">
 
-### 🚀 *"Kasalanan talaga 'to ni Nathaniel"*
+###  *"Kasalanan talaga 'to ni Nathaniel"*
 
 </div>
