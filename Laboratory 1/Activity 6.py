@@ -47,7 +47,7 @@ print(boys)
 # Sorts the list in descending order
 print("")
 print("Sorted List in Descending Order:")
-boys.sort(reverse=True)
+boys.sort(reverse=True)                                  # reverse=True if descending order and reverse=False if ascending order
 print(boys)
 
 # Converts the list to a tuple
@@ -56,3 +56,4 @@ x = tuple(boys)                                          # function to convert a
 print("Tuple:")
 print(x)
 print("The data type is:", type(x))                      # to check the data type of the variable x
+
