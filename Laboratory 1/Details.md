@@ -1,12 +1,6 @@
----
+# 🧪 Laboratory 1 – Introduction to Computer Fundamentals
 
-## 🧪 Laboratory Activities
-
-### 📅 Laboratory 1  
-**Title:** Introduction to Computer Fundamentals  
 **Date Conducted:** February 20, 2026  
-
----
 
 ### 🧩 Activities Included
 
