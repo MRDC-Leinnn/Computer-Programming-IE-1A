@@ -55,6 +55,4 @@ print("")
 x = tuple(boys)                                          # function to convert a list to a tuple
 print("Tuple:")
 print(x)
-
 print("The data type is:", type(x))                      # to check the data type of the variable x
-
