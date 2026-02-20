@@ -6,5 +6,5 @@ age = input("Age: ")
 hobby = input("Favorite Hobby: ")
 
 # Displays the user input in a sentence format
-
 print(f"You are {name}, you are {age} years old, and your favorite hobby is {hobby}.")
+
