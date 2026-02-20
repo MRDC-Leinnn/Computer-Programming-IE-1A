@@ -14,7 +14,7 @@ Welcome to the official repository of **BSIE 1A** for the course **Computer Fund
 
 This repository serves as a collection of laboratory activities/exercises completed throughout the semester.
 
-If you want to run the codes, make sure you download the specific file first, and run it on an IDE (VSCode, PyCharm, Jupyter, baste ket ano).
+If you want to run the codes, make sure you download the specific file first, and run it on an IDE (VSCode, PyCharm, Jupyter, basta ket ano).
 
 ---
 
